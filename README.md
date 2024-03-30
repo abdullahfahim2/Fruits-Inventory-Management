@@ -20,7 +20,7 @@ This Python script allows users to manage an inventory of fruits by adding, upda
    cd python-inventory-management
 3. **Run the Script:**
    ```bash
-   python inventory_management.py
+   python fruitsitem.py
 
 ## Follow the Prompts:
 
