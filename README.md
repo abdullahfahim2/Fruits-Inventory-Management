@@ -10,7 +10,7 @@ This Python script allows users to manage an inventory of fruits by adding, upda
 - View the summary data of the inventory from the stored CSV file.
 
 ## Usage
-
+Follow the Prompts:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your_username/python-inventory-management.git
@@ -22,11 +22,6 @@ This Python script allows users to manage an inventory of fruits by adding, upda
    ```bash
    python fruitsitem.py
 
-## Follow the Prompts:
-
-Enter the number of items you want to insert.      
-Enter the details for each fruit item, including name, unit price, and quantity.     
-View the summary data printed from the stored CSV file.       
 
 ## Requirements
 - Python 3.x  
