@@ -55,8 +55,8 @@ Print Fruits items Summary Data From Stored CSV File!
 ['Apple', '1.5', '10', '15.0']
 ['Banana', '0.5', '20', '10.0']
  ```
-## Contributing
+## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the functionality or add new features.
 
-## Author
-Md Abdullah Al Fahim
+## Contributor
+- [Md Abdullah Al Fahim](https://github.com/abdullahfahim2)
